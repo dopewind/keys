@@ -4,9 +4,9 @@ os:
   - windows
   - osx
 
-  
+
 python:
-  - "nightly"
+  - "3.9"
 
 install:
   - pip install -r requirements.txt
